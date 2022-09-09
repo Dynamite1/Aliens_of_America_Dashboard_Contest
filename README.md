@@ -22,14 +22,6 @@ So it's up to you to find the best state(s) we should market our new prescriptio
 
 It would be helpful to know...
 
-·
-
-·
-
-·
-
-·
-
 If these aliens are hostile
 
 Their diet
@@ -42,12 +34,6 @@ It's up to you to clean up the data and report back.
 
 This dataset contains only three tables named
 
-·
-
-·
-
-·
-
 aliens
 
 details
@@ -55,16 +41,12 @@ details
 location
 
 
-
-
-
 **Dashboard**
 
+![Aliens_Of_America_dashboard](https://user-images.githubusercontent.com/16399584/189458601-47ffe38f-b7ad-4611-90c1-bdd0bc6106c3.jpg)
+
 **Entity Relationship Diagram**
-
-
-
-
+![ERD_Aliens_OF_America](https://user-images.githubusercontent.com/16399584/189458640-9435c058-e887-4dbb-b5d5-c56afaca3900.jpg)
 
 **Insights**
 
