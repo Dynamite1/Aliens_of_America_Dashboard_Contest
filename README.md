@@ -34,11 +34,20 @@ It's up to you to clean up the data and report back.
 
 This dataset contains only three tables named
 
-aliens
+aliens table with sample data
 
-details
+![image](https://user-images.githubusercontent.com/16399584/189459235-a0d5121a-762e-4d63-9262-3454cdec0604.png)
 
-location
+
+details table with sample data
+
+![image](https://user-images.githubusercontent.com/16399584/189459283-939ac69d-4dd1-4093-8062-7bb15070cea8.png)
+
+
+location table
+
+![image](https://user-images.githubusercontent.com/16399584/189459320-bdfa3dc5-3853-4f12-95a5-1855e1c5cead.png)
+
 
 
 **Dashboard**
